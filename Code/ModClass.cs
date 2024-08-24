@@ -19,12 +19,20 @@ namespace ModTemplate.Code
             // Init the traits
             Traits.init();
             TraitGroup.init();
+
+            WorldEvents.DoomsDay();
             
         }
 
+        public bool doomsday = false;
+
+
         void Update()
         {
-
+            if (doomsday == true)
+            {
+                WorldEvents.DoomsDay();
+            }
         }
     }
 }

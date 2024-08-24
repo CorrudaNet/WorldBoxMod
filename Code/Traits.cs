@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 
+
 namespace ModTemplate.Code
 {
     class Traits
@@ -13,7 +14,7 @@ namespace ModTemplate.Code
         public static void init()
         {
             /*
-            
+                
             */
 
             ActorTrait retardedTrait = new ActorTrait();
@@ -28,9 +29,6 @@ namespace ModTemplate.Code
             retardedTrait.base_stats[S.fertility] = 15.0f;
             retardedTrait.base_stats[S.speed] = -4.5f;
             retardedTrait.base_stats[S.damage] = -35.5f;
-
-
-
 
 
             // The gifted trait

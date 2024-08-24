@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Family\\Desktop\\CorrudasMod\\ModTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\Family\\Documents\\GitHub\\WorldBoxMod\\ModTemplate.csproj",
       "projectName": "ModTemplate",
-      "projectPath": "C:\\Users\\Family\\Desktop\\CorrudasMod\\ModTemplate.csproj",
+      "projectPath": "C:\\Users\\Family\\Documents\\GitHub\\WorldBoxMod\\ModTemplate.csproj",
       "packagesPath": "C:\\Users\\Family\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Family\\Desktop\\CorrudasMod\\obj\\",
+      "outputPath": "C:\\Users\\Family\\Documents\\GitHub\\WorldBoxMod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
